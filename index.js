@@ -1,0 +1,1 @@
+document.getElementById('skill').innerHTML .Style.background.color="red";
